@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm yazid120</h1>
+<h1 align="center">Hi 👋, I'm Ziad yazid</h1>
 <h3 align="center">A Full Stack web developer ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" /> </p>
