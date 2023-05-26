@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ziad-mouhamed-yazid-802057218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-mouhamed-yazid-802057218/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yazid.ziad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yazid.ziad/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ziad-mouhamed-yazid-802057218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ziad-mouhamed-yazid-802057218/" height="30" width="40" /></a>
+<a href="https://instagram.com/yazid.ziad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yazid.ziad/" height="30" width="40" /></a>
 <a href="https://leetcode.com/kevinmak12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kevinmak12/" height="40" width="40" /></a>
 <a href="https://discord.gg/#4343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4343" height="50" width="40" /></a>
 </p>
