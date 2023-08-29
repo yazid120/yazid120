@@ -6,7 +6,7 @@
 
 - 🌱 Javascript background **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yazid120?tab=repositories](https://github.com/yazid120?tab=repositories)
+- 👨‍💻 All of repository projects are available at [https://github.com/yazid120?tab=repositories](https://github.com/yazid120?tab=repositories)
 
 - 💬 Ask me about **Javascrpt,Php**
 
