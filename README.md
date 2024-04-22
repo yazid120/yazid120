@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack web developer ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" /> </p>
-
+<img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
 - 🌱 Javascript background **React.js**
 
 - 👨‍💻 All of repository projects are available at [https://github.com/yazid120?tab=repositories](https://github.com/yazid120?tab=repositories)
@@ -11,7 +11,7 @@
 - 💬 Ask me about **Javascrpt,Php**
 
 - 📫 How to reach me **yazid.ziad2000@gmail.com**
-<img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
+
 <img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="1000" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
