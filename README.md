@@ -11,6 +11,7 @@
 - 💬 Ask me about **Javascrpt,Php**
 
 - 📫 How to reach me **yazid.ziad2000@gmail.com**
+<img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
 <img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="1000" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
