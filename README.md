@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of repository projects are available at [https://github.com/yazid120?tab=repositories](https://github.com/yazid120?tab=repositories)
 
-- 💬 Ask me about **Javascrpt,Php**
+- 💬 Ask me about <b>Javascrpt</b> ,<b>Php</b>
 
 - 📫 How to reach me **yazid.ziad2000@gmail.com**
 
