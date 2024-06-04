@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ziad yazid</h1>
-<h3 align="center">A Full Stack web developer ⚡</h3>
+**`A Full Stack web developer ⚡`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" /> </p>
 <img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
