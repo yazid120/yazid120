@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" /> </p>
 <img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
 
-- 🌱 Javascript background **React.js**
+- 🌱 Javascript background **React.js/ts**
+
+- 🌐 Make the world a better place 
 
 - 👨‍💻 All of repository projects are available at [https://github.com/yazid120?tab=repositories](https://github.com/yazid120?tab=repositories)
 
