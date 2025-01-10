@@ -51,6 +51,9 @@
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
     </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+    </a>
 </p>
  
 
