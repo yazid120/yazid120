@@ -79,6 +79,9 @@
 <a href="https://discord.gg/#4343" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4343" height="50" width="40" /></a>
 </p>
 
+<br clear="both" />
+<br />
+
 <h3 align="left">📊 Github Statistics:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
