@@ -4,7 +4,7 @@
 **`A Full Stack web developer ⚡`**
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" /> </p>
-<img align="left" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
+<img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=yazid120&theme=monokai" show_icons=true count_private=true />
 
 - 🌱 background **React.js/ts** - **PHP/Laravel**
 
