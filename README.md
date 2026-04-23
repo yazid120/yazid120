@@ -81,5 +81,7 @@
 ### 📊 GitHub Statistics 🏆
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yazid120&theme=monokai" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yazid120" alt="yazid120" />
+  </a>
 </p>
