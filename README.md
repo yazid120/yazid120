@@ -81,5 +81,6 @@
 ### 📊 GitHub Statistics 🏆
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yazid120&theme=monokai&no-frame=true&margin-w=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazid120&show_icons=true&theme=monokai" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazid120&theme=monokai" />
 </p>
