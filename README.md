@@ -33,7 +33,7 @@
 ### 🧰 Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,linux,figma,jira,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,linux,figma,jira,docker,bootstrap" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,laravel,rails,sass,babel" />
+  <img src="https://skillicons.dev/icons?i=react,redux,laravel,rails,tailwind,sass,babel,graphql" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 🗄️ Databases & Servers
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,nginx,apache" />
 </p>
 
 ---
