@@ -49,7 +49,8 @@
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,laravel,codeigniter,rails,tailwind,sass,babel,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,redux,laravel,codeigniter,rails,tailwind,sass,babel,graphql" /> </p>
+  </br>
   <img src="https://img.shields.io/badge/FilamentPHP-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
