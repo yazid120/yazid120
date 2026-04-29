@@ -34,6 +34,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,linux,figma,docker,bootstrap" />
+  </br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
