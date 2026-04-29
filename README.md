@@ -33,7 +33,8 @@
 ### 🧰 Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,linux,figma,jira,docker,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,linux,figma,docker,bootstrap" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
@@ -49,8 +50,9 @@
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,laravel,codeigniter,rails,tailwind,sass,babel,graphql" /> </p>
+  <img src="https://skillicons.dev/icons?i=react,redux,laravel,rails,tailwind,sass,babel,graphql" />
   </br>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/FilamentPHP-FFAA00?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
