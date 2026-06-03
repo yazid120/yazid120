@@ -86,6 +86,9 @@
 ### 📊 GitHub Statistics 🏆
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazid120&show_icons=true&theme=monokai" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=yazid120&theme=monokai" />
+  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazid120&show_icons=true&theme=monokai" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=yazid120&theme=monokai" /> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yazid120&show_icons=true&theme=monokai&cache_seconds=86400" />
+
 </p>
