@@ -83,6 +83,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yazid120&theme=monokai&hide_border=true" />
+</p>
+
+---
+
 ### 📊 GitHub Statistics 🏆
 
 <p align="center">
