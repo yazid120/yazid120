@@ -84,7 +84,7 @@
 ---
 
 ### 🏆 GitHub Achievements
-<p align="center">
+<p align="flex center">
   <img src="https://streak-stats.demolab.com?user=yazid120&theme=monokai&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazid120&layout=compact&theme=monokai" />
 </p>
