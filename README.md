@@ -99,4 +99,6 @@
 </p>
 
 ### 🏆 GitHub Trophies
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yazid120&theme=monokai&row=1&column=7&no-frame=true&no-bg=true" />
+</p>
