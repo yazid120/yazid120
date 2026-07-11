@@ -59,7 +59,7 @@
 
 ---
 
-### ⚙️ Auth
+### 🔒 Authentication & Security
 
 <p>
   <img src="https://img.shields.io/badge/Authentication-181717?style=for-the-badge&logo=auth0&logoColor=white" />
@@ -67,6 +67,12 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/2FA-0A66C2?style=for-the-badge&logo=1password&logoColor=white" />
   <img src="https://img.shields.io/badge/RBAC-FF9800?style=for-the-badge&logo=keycloak&logoColor=white" />
+</p>
+
+### 💳 Payments
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ---
