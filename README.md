@@ -11,9 +11,8 @@
 
 ---
 
-<table cellspacing="20" cellpadding="10">
-  <tr>
-    <td valign="top" width="60%">
+<p align="left">
+  <img align="right" src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
 
 ### 🚀 About Me
 
@@ -24,13 +23,7 @@
 - 💬 Ask me about **JavaScript, PHP**
 - 📫 Contact: **[yazid.ziad2000@gmail.com](mailto:yazid.ziad2000@gmail.com)**
 
-</td>
-
-<td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
-</td>
-  </tr>
-</table>
+</p>
 
 ---
 
