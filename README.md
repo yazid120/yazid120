@@ -5,18 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" />
 </p>
 
-<table>
-  <tr>
-    <td width="60%">
-      <img width="100%" src="https://github-readme-stats.zohan.tech/api?username=yazid120&theme=monokai&show_icons=true&count_private=true" />
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/Yekuuun/Yekuuun/blob/main/giphy.gif" width="320px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.zohan.tech/api?username=yazid120&theme=monokai&show_icons=true&count_private=true" />
+</p>
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ### 🚀 About Me
 
@@ -26,6 +23,14 @@
   👉 https://github.com/yazid120?tab=repositories
 - 💬 Ask me about **JavaScript, PHP**
 - 📫 Contact: **[yazid.ziad2000@gmail.com](mailto:yazid.ziad2000@gmail.com)**
+
+</td>
+
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
+</td>
+</tr>
+</table>
 
 ---
 
