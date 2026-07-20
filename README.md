@@ -18,6 +18,7 @@
 
 - 🌱 Background in **React.js / TypeScript** and **PHP / Laravel**
 - 🌍 I aim to build projects that make a real-world impact
+- ♟️ Chess enthusiast — Always up for a game! **[Challenge me on Chess.com](https://www.chess.com/member/kevinmakalister01)**.
 - 👨‍💻 All my projects:  
   👉 https://github.com/yazid120?tab=repositories
 - 💬 Ask me about **JavaScript, PHP**
