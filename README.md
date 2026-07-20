@@ -11,9 +11,9 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<table cellspacing="20" cellpadding="10">
+  <tr>
+    <td valign="top" width="60%">
 
 ### 🚀 About Me
 
@@ -27,9 +27,9 @@
 </td>
 
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
