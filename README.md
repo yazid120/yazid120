@@ -5,20 +5,27 @@
   <img src="https://komarev.com/ghpvc/?username=yazid120&label=Profile%20views&color=0e75b6&style=flat" alt="yazid120" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.zohan.tech/api?username=yazid120&theme=monokai&show_icons=true&count_private=true" />
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <img width="100%" src="https://github-readme-stats.zohan.tech/api?username=yazid120&theme=monokai&show_icons=true&count_private=true" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/Yekuuun/Yekuuun/blob/main/giphy.gif" width="320px" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 About Me
 
-* 🌱 Background in **React.js / TypeScript** and **PHP / Laravel**
-* 🌍 I aim to build projects that make a real-world impact
-* 👨‍💻 All my projects:
+- 🌱 Background in **React.js / TypeScript** and **PHP / Laravel**
+- 🌍 I aim to build projects that make a real-world impact
+- 👨‍💻 All my projects:  
   👉 https://github.com/yazid120?tab=repositories
-* 💬 Ask me about **JavaScript, PHP**
-* 📫 Contact: **[yazid.ziad2000@gmail.com](mailto:yazid.ziad2000@gmail.com)**
+- 💬 Ask me about **JavaScript, PHP**
+- 📫 Contact: **[yazid.ziad2000@gmail.com](mailto:yazid.ziad2000@gmail.com)**
 
 ---
 
@@ -116,6 +123,8 @@
   <img src="https://img.shields.io/github/stars/yazid120?style=for-the-badge" />
 </p>
 
+<!--
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yazid120&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+-->
