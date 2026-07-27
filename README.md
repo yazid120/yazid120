@@ -12,7 +12,7 @@
 ---
 
 <p align="left">
-  <img align="right" src="https://raw.githubusercontent.com/Yekuuun/Yekuuun/main/giphy.gif" width="320" alt="Coding GIF" />
+  <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 🚀 About Me
 
