@@ -30,9 +30,9 @@
 
 ### 🐍 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="100%" />
-</p>
+</p> -->
 
 ---
 
